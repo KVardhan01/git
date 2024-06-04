@@ -8,7 +8,7 @@ namespace FCode_CRUD.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "gjhWarm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "gjhWarm", "Balmy", "Hot", "Sweltetasskring", "Scorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
